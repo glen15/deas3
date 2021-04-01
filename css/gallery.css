@@ -1,0 +1,10 @@
+.gallery-main {
+    grid-area: main;
+}
+
+.gallery__img{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+

@@ -1,0 +1,72 @@
+.profile-box {
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 10px 5px;
+}
+
+.profile-box:hover {
+    background-color: var(--color);
+}
+
+.profile__img {
+    margin: 0 15px;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+.profile__name {
+    margin: 0 10px;
+}
+.profile__medal {
+    display: flex;
+    width: 20vh;
+    justify-content: center;
+}
+
+.profile__point {
+    margin-right: 15px;
+}
+
+.medal__gold {
+    width: 25px;
+    height: 25px;
+    background-color: gold;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 10px;
+}
+
+.medal__silver {
+    width: 25px;
+    height: 25px;
+    background-color: silver;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 10px;
+}
+
+.medal__master {
+    width: 25px;
+    height: 25px;
+    background-color: purple;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 10px;
+}
+
