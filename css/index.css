@@ -5,6 +5,13 @@
   height: 100%;
   }
 
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+  }
+
   .btn {
     margin-bottom: 20px;
     width: 120px;
